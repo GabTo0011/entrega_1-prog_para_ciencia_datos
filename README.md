@@ -132,7 +132,7 @@ Kernel → Restart & Run All
 ## 🔍 Flujo del proyecto
 
 El proyecto sigue el siguiente pipeline:
-```mermaid
+```text
 Datos crudos
    ↓
 Diagnóstico (EDA)
