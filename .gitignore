@@ -12,3 +12,9 @@ __pycache__/
 
 # Datos (opcional, si los archivos son muy pesados)
 # data/raw/*.csv
+data/processed/
+outputs/
+
+# Archivos temporales
+.ipynb_checkpoints/
+*.pyc
